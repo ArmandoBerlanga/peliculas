@@ -1,6 +1,5 @@
 <template>
     <div class="feature-card">
-      <router-link to="/movie/tt0409591">
 
         <img src="https://s3-us-west-2.amazonaws.com/flx-editorial-wordpress/wp-content/uploads/2018/03/13153742/RT_300EssentialMovies_700X250.jpg" 
           alt="Naruto Poster" class="featured-img">
@@ -12,7 +11,6 @@
           </p>
         </div>
 
-      </router-link>
     </div>
 </template>
 

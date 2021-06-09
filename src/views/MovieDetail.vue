@@ -11,8 +11,8 @@
                 <div class="part"><span class="info">Productora: </span>{{movie.Production}}</div>
                 <div class="part"><span class="info">Lanzamiento: </span> {{movie.Released}}</div>
                 <div class="botones">
-                    <button class="ver"><a href="https://www.netflix.com/browse">VER</a></button>
-                    <button class="return"><a href="/">DEVOLVER</a></button>
+                    <a href="https://www.netflix.com/browse"><button class="ver">VER</button></a>
+                    <a href="/"><button class="return">DEVOLVER</button></a>
                 </div>
             </div>
 
